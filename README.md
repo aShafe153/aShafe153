@@ -1,8 +1,8 @@
 # 👋 Alex Shafer
 
-```'Network Engineer (Aspiring DevOps Engineer)'```
+```'Network Engineer (Aspiring Software Developer)'```
 
-Growing up in the age of technology is an exciting journey! Hi my name is Alex I am a Network Engineer who is on a journey to learn more about tech. I started out as a Network Engineer and have recently been introduced to the world of DevOps. I am currently working on many projects for a boot camp so why not take a journey with me and together we can learn more about the world of DevOps!
+I'm a Network Engineer with a passion for learning software development. I've been programming on and off for a few years now but I got my real first tatse of programming when I created a python script to automate some processes at work. The first was an automation script that would cycle through 40+ UniFi Network Controllers and get a list of Access Points that were offline and then generate a post in a teams channel for the NOC team to look into. After this I was hooked on programming and have continued to learn more. I am excited to see where this journey takes me!
 
 #
 
