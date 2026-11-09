@@ -11,7 +11,7 @@ I'm a Network Engineer with 4.5 years of experience in the industry. About a yea
 - **Outage reconciliation:** A pipeline that matches offline APs against open trouble tickets so nothing goes untracked
 
 ## 🧰 Tech
-**Automation:** Python · REST APIs · Windmill · Docker · Git · Microsoft Teams webhooks · Power Automate
+**Automation:** Python · REST APIs · Windmill · Docker · Git · Microsoft Teams webhooks · Power Automate\
 **Networking:** Fortinet (FortiGate, FortiAP) · Cisco · Arista · UniFi · Meraki · Ruckus · SonicWall
 
 ## 📌 Featured
